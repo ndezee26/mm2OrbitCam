@@ -7,3 +7,4 @@ Place the main.lua file into the LUA directory within the MM2 game folder
 
 To use:
 Press the "O" key on the keyboard to toggle the orbit cam or press and hold the right mouse button.
+Scrolling with the mouse wheel controls zoom
